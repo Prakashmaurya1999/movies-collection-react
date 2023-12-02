@@ -1,0 +1,8 @@
+.card{
+    border:1px solid red;
+    max-width: 250px;
+    padding: 0 4px;
+}
+.card img{
+    width: 100%;
+}

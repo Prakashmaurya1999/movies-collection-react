@@ -1,0 +1,84 @@
+/* .btn {
+  background-color: green;
+}
+
+.card {
+  height: 200px;
+  width: 200px;
+  background: linear-gradient(to right, rgb(6, 236, 102) 0%, rgb(12, 12, 197) 35%, rgb(255, 0, 76));
+}
+
+.card img {
+  width: 100%;
+  height: 100%;
+}
+
+.divbtn {
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 50px;
+
+} */
+
+/* .bg {
+  background-color: rgb(210, 243, 243);
+  height: auto;
+
+}
+
+.cont li {
+  list-style: none;
+}
+
+.bg div {
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.pop {
+  position: fixed;
+  inset: 0;
+  height: 100vh;
+  background-color: black;
+
+  display: none;
+
+}
+
+.pop div {
+  width: 35%;
+  height: 350px;
+  background-color: white;
+}
+
+.logback {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+  background-color: aqua;
+  position: sticky;
+  top: 0;
+}
+.navmenu{
+  display: flex;
+  gap: 20px;
+}
+footer{
+  background-color: aquamarine;
+  height: 200px;
+  width: 100%;
+}
+select{
+  all: unset;
+}
